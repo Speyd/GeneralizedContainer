@@ -1,0 +1,14 @@
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\bin\Debug\net8.0\GeneralizedContainer_C#.exe
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\bin\Debug\net8.0\GeneralizedContainer_C#.deps.json
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\bin\Debug\net8.0\GeneralizedContainer_C#.runtimeconfig.json
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\bin\Debug\net8.0\GeneralizedContainer_C#.dll
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\bin\Debug\net8.0\GeneralizedContainer_C#.pdb
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.AssemblyInfoInputs.cache
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.AssemblyInfo.cs
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.csproj.CoreCompileInputs.cache
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.dll
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\refint\GeneralizedContainer_C#.dll
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.pdb
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\GeneralizedContainer_C#.genruntimeconfig.cache
+D:\C++ проекты\GeneralizedContainer_C#\GeneralizedContainer_C#\obj\Debug\net8.0\ref\GeneralizedContainer_C#.dll
